@@ -78,6 +78,16 @@ touch .nojekyll
 ```
 create .nojekyll file because html 
 
+```
+git commit -a -m "initial web site"
+```
+commit modifications of this branche
+
+```
+git push origin  gh-pages
+```
+upload to github
+
 
 Slide With Code
 ========================================================
