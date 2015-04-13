@@ -44,9 +44,39 @@ git add *
 Add files in the repository  (* for all )
 
 ```
+git commit -a -m "Initial Comment "
+```
+Commit for the first time 
 
 ```
+git remote add origin https://github.com/podspods/DDDProject.git
+```
+prepare pour pushing 
 
+```
+git push -u origin master
+```
+push in github
+
+
+
+Slide githup for web site
+========================================================
+
+```
+git branch gh-pages
+```
+create a branche for the web site
+
+```
+git checkout gh-pages
+```
+switch to the branche gh-pages
+
+```
+touch .nojekyll
+```
+create .nojekyll file because html 
 
 
 Slide With Code
