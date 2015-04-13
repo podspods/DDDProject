@@ -1,0 +1,64 @@
+Trees In Paris
+========================================================
+author: Emile
+date: date
+
+
+First Slide
+========================================================
+Sommaire<br>
+For more details on authoring R presentations click the
+**Help** button on the toolbar.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+Slide With Code
+========================================================
+Paris have 90 000 trees
+Paris have 2 265 886  inhabitants 
+
+a personn consum  700g a day of oxygen
+average breathing = 20l/min .  so 28 800  l/day
+air conten 20% oxygen  so 5 760l of oxygen a days
+
+
+
+Slide With Code
+========================================================
+```
+cd /myDirectory
+```
+go to the directory to git
+
+```
+git init 
+```
+init an empty  repository 
+
+```
+git add *
+
+```
+Add files in the repository  (* for all )
+
+```
+
+```
+
+
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
